@@ -4,7 +4,7 @@
 
 ## コーチ <a href="#coach" id="coach"></a>
 
-* [Page 1](coach/page-1.md)
+* [コーチはレフリーであるべき](coach/coach-as-referee.md)
 
 ## レフリー <a href="#referee" id="referee"></a>
 
